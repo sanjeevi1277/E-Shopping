@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/E-Shopping API/obj
+/.vs/E-Shopping/v17
+/.vs/E-Shopping
+/E-Shopping API/bin/Debug/net6.0
